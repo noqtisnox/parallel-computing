@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+cmake-build-*/
+*.exe
+*.o
+Thumbs.db
+.DS_Store
+
+lab1/gauss_solver
+lab1/gauss_solver.exe
+lab1/data/input.txt
